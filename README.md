@@ -8,7 +8,7 @@
   
   
   <a href="https://portfolio-koushik.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-teal?style=Color=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=logoColor=white" alt="Portfolio Badge"/>
   </a>
   
   
