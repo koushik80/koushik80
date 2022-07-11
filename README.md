@@ -6,14 +6,9 @@
 
 <div id="badges" align="center">
   
-  
   <a href="https://portfolio-koushik.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=logoColor=white" alt="Portfolio Badge"/>
   </a>
-  
-  
-  
-  
   <a href="https://www.linkedin.com/in/koude/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -25,7 +20,7 @@
   </a>
 </div>
 
-
+<p align="center">Welcome to my profile!</p>
 
 <!--
 **koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
