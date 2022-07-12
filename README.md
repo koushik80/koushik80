@@ -19,6 +19,9 @@
   <a href="https://twitter.com/BLIZZARD_FINBD">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://web.whatsapp.com/">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
 </div>
 <br><br>
 
