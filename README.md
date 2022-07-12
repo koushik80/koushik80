@@ -21,6 +21,7 @@
   </a>
 </div>
 <br><br>
+
 ---
 
 <p align="left">Welcome to my profile! I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. Thanks for visiting and I'd love to be connected!</p>
