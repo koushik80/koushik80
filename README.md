@@ -5,7 +5,7 @@
 </div>
 <br><br>
 <div id="badges" align="center">
-  <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="35" height="35"/>
   
   <a href="https://portfolio-koushik.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=logoColor=white" alt="Portfolio Badge"/>
