@@ -33,7 +33,7 @@
 
 - :keyboard: Currently, I'm learning advanced Python.
 - :technologist: I always ensure my skills are kept up to date within this rapidly changing industry.
-- :zap: In my free time When I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
+- :zap: In my free time when I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
 
 ---
 
@@ -73,7 +73,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="20"/>&nbsp;
  </div>
  
-
 ---
 
 ### :fire: My Stats :
