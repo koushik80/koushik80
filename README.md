@@ -31,6 +31,12 @@
 
 ---
 
+- :keyboard: Currently, I'm learning advanced Python.
+- :technologist: I always ensure my skills are kept up to date within this rapidly changing industry.
+- :zap: In my free time When I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
+
+---
+
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="600"/>
 </div>
@@ -38,12 +44,6 @@
   <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="70" height="70"/>
 </div>
 <h4 align="center">Everyday learning something new . .. ... .... :next_track_button:</h4>
-
----
-
-- :keyboard: Currently, I'm learning advanced Python.
-- :technologist: I always ensure my skills are kept up to date within this rapidly changing industry.
-- :zap: In my free time When I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
 
 ---
 
