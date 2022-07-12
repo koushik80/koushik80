@@ -20,6 +20,7 @@
   </a>
 </div>
 <br><br>
+---
 <p align="center">Welcome to my profile!I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I always ensure my skills are kept up to date within this rapidly changing industry. Thanks for visiting and I'd love to connect!</p>
 
 <!--
