@@ -1,6 +1,6 @@
 <div><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/><h3>Hi I'm Koushik 👋</h3></div>
 
-<div id="header" align="right">
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="100"/>
 </div>
 <br><br>
