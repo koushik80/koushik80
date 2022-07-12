@@ -30,6 +30,8 @@
 <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="600"/>
 </div>
 
+---
+
 - :keyboard: Currently, I'm learning Python.
 - :technologist: I always ensure my skills are kept up to date within this rapidly changing industry.
 - :zap: In my free time When I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
