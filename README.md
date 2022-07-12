@@ -34,6 +34,10 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="600"/>
 </div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="40" height="40"/>
+</div>
 <h4 align="center">Everyday learning something new . .. ... .... :next_track_button:</h4>
 
 ---
