@@ -36,7 +36,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="60" height="60"/>
 </div>
 <h4 align="center">Everyday learning something new . .. ... .... :next_track_button:</h4>
 
