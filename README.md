@@ -83,8 +83,8 @@
 
 ### :bar_chart: now-a-days :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=koushik80&langs_count=5&hide=c,PHP,Cython&repo=github-readme-stats&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik80&show_icons=true&theme=tokyonight![image](https://user-images.githubusercontent.com/89943976/178587660-f4213406-50c4-4e38-b478-4d9f9bf9e483.png)
+)
 <!--
 **koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
