@@ -75,12 +75,12 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.github.com?user=koushik80&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.github.com/koushik80?user=koushik80&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
 
-[![Top Langs](https://github-readme-stats.github.com/top-langs/?username=koushik80&repo=github-readme-stats&show_icons=true&theme=tokyonight)](https://github.com/koushik80/github-readme-stats)
+[![Top Langs](https://github-readme-stats.github.com/koushik80/top-langs/?username=koushik80&repo=github-readme-stats&show_icons=true&theme=tokyonight)](https://github.com/koushik80/github-readme-stats)
 
 <!--
 **koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
