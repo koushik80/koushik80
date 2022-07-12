@@ -31,7 +31,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="600"/>
 </div>
-<div align="center"><h4>Everyday learning something new . .. ... ....</h4></div>
+<h4 align="center">Everyday learning something new . .. ... ....</h4>
 
 ---
 
