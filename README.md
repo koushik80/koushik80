@@ -1,4 +1,4 @@
-<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3>Hi I'm Koushik 👋</h3>
+<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3>Hi I'm Koushik 👋 Welcome to my profile! </h3>
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="100"/>
@@ -24,7 +24,7 @@
 
 ---
 
-<h4 align="left">Welcome to my profile! I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. Thanks for visiting and I'd love to be connected!</h4>
+<h4 align="left">I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. Thanks for visiting and I'd love to be connected!</h4>
 
 ---
 
