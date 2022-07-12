@@ -22,10 +22,10 @@
 </div>
 <br><br>
 
-<p align="center">Welcome to my profile!I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I always ensure my skills are kept up to date within this rapidly changing industry. Thanks for visiting and I'd love to connect!</p>
+<p align="center">Welcome to my profile!I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I always ensure my skills are kept up to date within this rapidly changing industry. Thanks for visiting and I'd love to be connected!</p>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="600"/>
 </div>
 
 
