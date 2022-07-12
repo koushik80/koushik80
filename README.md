@@ -83,7 +83,7 @@
 
 ### :bar_chart: now-a-days :
 
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik80&count_private=true&show_icons=true&theme=tokyonight)
+![Koushik's stats](https://github-readme-stats.vercel.app/api?username=koushik80&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
