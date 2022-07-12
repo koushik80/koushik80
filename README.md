@@ -32,6 +32,9 @@
 - :technologist: I always ensure my skills are kept up to date within this rapidly changing industry.
 - :zap: In my free time When I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
