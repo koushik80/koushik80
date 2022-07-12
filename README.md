@@ -1,6 +1,6 @@
 <div><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/><h4>Hi I'm Koushik 👋</h4></div>
 
-<div id="header" align="center">
+<div id="header" align="left">
 <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="100"/>
 </div>
 <br><br>
@@ -22,12 +22,14 @@
 </div>
 <br><br>
 
-<p align="center">Welcome to my profile!I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I always ensure my skills are kept up to date within this rapidly changing industry. Thanks for visiting and I'd love to be connected!</p>
+<p align="left">Welcome to my profile! I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I always ensure my skills are kept up to date within this rapidly changing industry. Thanks for visiting and I'd love to be connected!</p>
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="600"/>
 </div>
 
+- :zap: In my free time When I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
+- 
 
 <!--
 **koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
