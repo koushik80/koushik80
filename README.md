@@ -69,7 +69,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="40" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="20"/>&nbsp;
  </div>
+ 
 
+---
+
+### :fire: My Stats :
 
 
 <!--
