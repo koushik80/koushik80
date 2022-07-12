@@ -5,6 +5,7 @@
 </div>
 <br><br>
 <div id="badges" align="center">
+  <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="100"/>
   
   <a href="https://portfolio-koushik.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=logoColor=white" alt="Portfolio Badge"/>
@@ -20,7 +21,7 @@
   </a>
 </div>
 <br><br>
----
+
 <p align="center">Welcome to my profile!I'm an enthusiastic Junior Web Developer/IT specialist. I am seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I always ensure my skills are kept up to date within this rapidly changing industry. Thanks for visiting and I'd love to connect!</p>
 
 <!--
