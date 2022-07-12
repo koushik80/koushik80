@@ -1,5 +1,5 @@
-<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3 align="center">Hi I'm Koushik 👋 Welcome to my profile! </h3>
-
+<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3 align="center">Hi I'm Koushik 👋 Welcome to my profile!</h3>
+<br>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="100"/>
 </div>
