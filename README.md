@@ -1,10 +1,10 @@
 <div><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/><h4>Hi I'm Koushik 👋</h4></div>
 
-<div id="header" align="left">
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="100"/>
 </div>
 <br><br>
-<div id="badges" align="center">
+<div id="badges" align="left">
   <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="30" height="30"/>
   
   <a href="https://portfolio-koushik.netlify.app/">
