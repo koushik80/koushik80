@@ -49,7 +49,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center" justify-content="center">
+<div align="center" justify-content="center" display="grid">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="25"/>&nbsp;
