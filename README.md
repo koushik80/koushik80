@@ -27,7 +27,7 @@
 
 ---
 
-<h4 align="left">I'm an enthusiastic Junior Web Developer/IT-specialist, seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. Thanks for visiting and I'd love to be connected!</h4>
+<h4 align="left">I'm an enthusiastic Junior Web Developer/IT-specialist, seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I love connecting with different people, so if you want to say hi, I'd love to be connected! Thanks for visiting.</h4>
 
 ---
 
