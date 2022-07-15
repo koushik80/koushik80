@@ -32,6 +32,7 @@
 ---
 
 - :keyboard: I'm currently learning Python.
+- :handshake: I'm looking to collaborate with someone who is interested in software development and cloud engineering.
 - :technologist: I ensure my skills are kept up to date within this rapidly changing industry.
 - :zap: In my free time when I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
 
