@@ -7,7 +7,6 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="100"/>
 </div>
----
 
 <br><br>
 <div id="badges" align="center">
