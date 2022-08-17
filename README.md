@@ -15,7 +15,7 @@
   <a href="https://portfolio-koushik.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/koude/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/">
