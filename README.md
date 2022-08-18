@@ -52,6 +52,11 @@
 <h4 align="center">Everyday learning something new . .. ... .... :next_track_button:</h4>
 
 ---
+Snake is eating my contributions graph: 
+
+![snake gif](https://github.com/koushik80/koushik80/blob/output/github-contribution-grid-snake.gif)
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
