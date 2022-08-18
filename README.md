@@ -85,12 +85,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="20" display="block"/>&nbsp;
  
  </div>
- 
- 
- [![e-commerce-complete](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/koushik80/
-e-commerce-complete)
- 
- 
+  
 ---
 
 ### :fire: My Stats :
