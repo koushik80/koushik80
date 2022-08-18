@@ -39,8 +39,8 @@
 <div id="header" align="right">
  <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="150"/>
 </div>
-<div id="header" align="right">Everyday learning something new
- <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="60" height="60"/>
+<div id="header" align="right">
+ <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="55" height="55"/>
 </div>
 
 - :keyboard: I believe in #SharingIsCaring. So here to share with you what I have learned. And everyday learning something new.
@@ -49,13 +49,6 @@
 - :zap: In my free time when I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
 
 ---
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="250"/>
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="70" height="70"/>
-</div>
-<h4 align="center">Everyday learning something new . .. ... ....</h4>
 
 ---
 
