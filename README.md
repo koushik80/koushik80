@@ -37,13 +37,12 @@
 ---
 
 <div id="header" align="right">
-<img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="100"/>
+ <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="150"/>
 </div>
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="30" height="30"/>
+ <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="40" height="40"/>
 </div>
-
-- :keyboard: I believe in #SharingIsCaring. So here to share with you what I have learned.
+- :keyboard: I believe in #SharingIsCaring. So here to share with you what I have learned. And everyday learning something new.
 - :handshake: I'm looking to collaborate with someone who is interested in software development and cloud engineering.
 - :technologist: I ensure my skills are kept up to date within this rapidly changing industry.
 - :zap: In my free time when I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
