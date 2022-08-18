@@ -39,8 +39,8 @@
 <div id="header" align="right">
  <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="150"/>
 </div>
-<div id="header" align="right">
- <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="40" height="40"/>
+<div id="header" align="right">Everyday learning something new
+ <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="60" height="60"/>
 </div>
 
 - :keyboard: I believe in #SharingIsCaring. So here to share with you what I have learned. And everyday learning something new.
