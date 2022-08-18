@@ -52,7 +52,7 @@
 
 ---
 
-### :snake: is eating my contributions graph : 
+### :snake: is swallowing my contributions graph : 
 
 ![snake gif](https://github.com/koushik80/koushik80/blob/output/github-contribution-grid-snake.gif)
 
