@@ -52,7 +52,7 @@
 <h4 align="center">Everyday learning something new . .. ... .... :next_track_button:</h4>
 
 ---
-###:snake: is eating my contributions graph: 
+### :snake: is eating my contributions graph: 
 
 ![snake gif](https://github.com/koushik80/koushik80/blob/output/github-contribution-grid-snake.gif)
 
