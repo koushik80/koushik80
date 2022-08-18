@@ -37,9 +37,9 @@
 ---
 
 <div id="header" align="right">
-<img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="50"/>
+<img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="30" height="30"/>
 </div>
 
