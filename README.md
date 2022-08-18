@@ -87,7 +87,7 @@
  </div>
  
  
- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/koushik80/
+ [![e-commerce-complete](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/koushik80/
 e-commerce-complete)
  
  
