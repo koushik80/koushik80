@@ -44,7 +44,7 @@
 </div>
 
 - :keyboard: I believe in #SharingIsCaring. So here to share with you what I have learned. And everyday learning something new.
-- :briefcase: According to my tech skills I'm looking for an internship place or a Junior Full-stack developer position.
+- :briefcase: According to my tech skills I'm looking for an internship place or a Software developer position.
 - :handshake: I'm looking to collaborate with someone who is interested in software development and cloud engineering.
 - :technologist: I ensure my skills are kept up to date within this rapidly changing industry.
 - :zap: In my free time when I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
