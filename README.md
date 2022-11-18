@@ -90,7 +90,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="github" alt="github" width="80" height="40" display="block"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="github" alt="github" width="80" height="40" display="block"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="github" alt="github" width="80" height="40" display="block"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="github" alt="github" width="80" height="40" display="block"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="github" alt="github" width="60" height="30" display="block"/>&nbsp;
  
  </div>
   
