@@ -62,7 +62,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 
-<div display="grid" grid-auto-flow="dense" align="center" justify-content="center" grid-gap="3px" object-fit="cover" width="100%" height="100%">
+<div display="grid" grid-auto-flow="dense" align="center" justify-content="center" grid-gap="3px" object-fit="cover" height="100%">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="25" display="block"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="25" display="block"/>&nbsp;
