@@ -47,7 +47,7 @@
 - :briefcase: According to my tech skills I'm looking for an internship place or a Junior Software developer position.
 - :handshake: I'm looking to collaborate with someone who is interested in Software Development, Data analytics, DevOps and cloud engineering.
 - :technologist: I ensure my skills are kept up to date within this rapidly changing industry. I am continuing a Full Stack Data Analytics BootCamp in                      Udemy under the instructor Dr. Bright and also learning AWS from online. 
-- :zap: In my free time when I'm not pushing codes, you'll find me cooking, gardening, read tech articles or listening music.
+- :zap: In my free time when I'm not pushing codes, you'll find me on enjoying time with my family, cooking, gardening, read tech articles or listening to music.
 
 ---
 
