@@ -47,7 +47,6 @@
 - :briefcase: According to my tech skills I'm looking for an internship place or a Junior Software developer position.
 - :handshake: I'm looking to collaborate with someone who is interested in Software Development, Data analytics, DevOps and cloud engineering.
 - :technologist: I ensure my skills are kept up to date within this rapidly changing industry. My current study lines are data analytics, AWS, Container, testing etc.
-. 
 - :zap: In my free time when I'm not pushing codes, you'll find me on enjoying time with my family, cooking, gardening, read tech articles or listening to music.
 
 ---
