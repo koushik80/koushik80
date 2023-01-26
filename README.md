@@ -112,7 +112,7 @@
 ### extra pins
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushik80&repo=github-readme-stats)](https://github.com/koushik80?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=koushik80&repo=github-readme-stats)](https://github.com/koushik80/github-readme-stats)
 
 
 
