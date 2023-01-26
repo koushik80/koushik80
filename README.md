@@ -106,6 +106,14 @@
 ### :bar_chart: now-a-days :
 
 ![Koushik's stats](https://github-readme-stats.vercel.app/api?username=koushik80&count_private=true&show_icons=true&theme=tokyonight)
+
+---
+
+### extra pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?koushik80=koushik&repo=github-readme-stats)](https://github.com/koushik80/github-readme-stats)![image](https://user-images.githubusercontent.com/89943976/214891327-6ff45198-1bb8-4366-86ec-dffd36334f7d.png)
+
+
 <!--
 **koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
