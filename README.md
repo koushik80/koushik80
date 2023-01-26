@@ -111,7 +111,10 @@
 
 ### extra pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?koushik80=koushik&repo=github-readme-stats)](https://github.com/koushik80/github-readme-stats)![image](https://user-images.githubusercontent.com/89943976/214891327-6ff45198-1bb8-4366-86ec-dffd36334f7d.png)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushik80&repo=github-readme-stats)](https://github.com/koushik80/github-readme-stats)
+![image](https://user-images.githubusercontent.com/89943976/214892327-c462b988-ae39-4ba0-8a06-0eaaf43e5504.png)
+
 
 
 <!--
