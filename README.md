@@ -59,7 +59,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tech Stack :
 
 
 <div display="grid" grid-auto-flow="dense" align="left" justify-content="center" grid-gap="3px" object-fit="cover" height="100%">
