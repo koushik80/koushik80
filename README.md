@@ -59,7 +59,7 @@
 
 ---
 
-### :hammer_and_wrench: Knowledge Bank :
+### :battery: Knowledge Bank :
 
 
 <div display="grid" grid-auto-flow="dense" align="left" justify-content="center" grid-gap="3px" object-fit="cover" height="100%">
