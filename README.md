@@ -32,7 +32,7 @@
 
 ---
 
-<h4 align="left">I'm an enthusiastic Software Developer/IT-specialist and Microsoft Azure learner, seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I love connecting with different people, so if you want to say hi, I'd love to be connected! Thanks for visiting my profile.</h4>
+<h4 align="left">I'm an enthusiastic Microsoft Azure Administrator and Software Developer, seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I love connecting with different people, so if you want to say hi, I'd love to be connected! Thanks for visiting my profile.</h4>
 
 ---
 
@@ -44,9 +44,9 @@
 </div>
 
 - :keyboard: I believe in #SharingIsCaring. So here to share with you what I have learned. And everyday learning something new.
-- :briefcase: According to my tech skills, I'm looking for an internship place or a Junior Software/Cloud developer position.
+- :briefcase: According to my tech skills, I'm looking for an internship place or a Cloud Administrator/Junior Software position.
 - :handshake: I'm looking to collaborate with someone who is interested in Software Development, Clouds, Data Analytics & DevOps.
-- :technologist: I ensure my skills are kept up to date within this rapidly changing industry. My current study lines are Cloud, Windows Server 2019 Admin, Microservices(Node & React), Docker & Kubernetes, testing etc.
+- :technologist: I ensure my skills are kept up to date within this rapidly changing industry. My current study lines are Cloud, Network Security, Virtual Desktop, Windows Server 2019 Admin, Microservices(Node & React), Docker & Kubernetes, testing etc.
 - :zap: In my free time when I'm not pushing codes, you'll find me on enjoying time with my family, cooking, gardening, read tech articles or listening to music.
 
 ---
