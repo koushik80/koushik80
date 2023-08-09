@@ -32,7 +32,7 @@
 
 ---
 
-<h4 align="left">I'm an enthusiastic Microsoft Azure Administrator and Software Developer, seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I love connecting with different people, so if you want to say hi, I'd love to be connected! Thanks for visiting my profile.</h4>
+<h4 align="left">I'm an enthusiastic Microsoft Azure Specialist and Software Developer, seeking long-term employment with the same company where I can really immerse myself in their brand and their online ambitions. I love connecting with different people, so if you want to say hi, I'd love to be connected! Thanks for visiting my profile.</h4>
 
 ---
 
