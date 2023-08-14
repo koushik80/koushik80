@@ -43,7 +43,7 @@
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="55" height="55"/>
 </div>
 
-- :keyboard: I believe in #SharingIsCaring. I'm here to share with you what I have learned, and I'm learning something new every day.![Uploading image.png…]()
+- :keyboard: I believe in #SharingIsCaring. I'm here to share with you what I have learned, and I'm learning something new every day.
 
 - :briefcase: According to my tech skills, I'm looking for an internship place or an Azure Administrator/Junior Software Developer position.
 - :handshake: I'm looking to collaborate with someone who is interested in Software Development, Clouds, Data Analytics & DevOps.
