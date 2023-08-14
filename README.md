@@ -1,4 +1,4 @@
-![image](https://github.com/koushik80/koushik80/assets/89943976/aaaf9209-4f63-4dba-92ff-6260c4e35de7)<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3 align="center">Hi I'm Koushik.<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Welcome to my <div id="header" align="center"><img src="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="70" height="70"/></div> profile!</h3>
+<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3 align="center">Hi I'm Koushik.<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Welcome to my <div id="header" align="center"><img src="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="70" height="70"/></div> profile!</h3>
 
 <br>
 
