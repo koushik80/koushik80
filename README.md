@@ -58,7 +58,6 @@
 
 ![snake gif](https://github.com/koushik80/koushik80/blob/output/github-contribution-grid-snake.gif)
 
-![Snake animation](https://github.com/{{koushik80}}/{{koushik80}}/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
