@@ -43,7 +43,8 @@
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="55" height="55"/>
 </div>
 
-- :keyboard: I believe in #SharingIsCaring. So here to share with you what I have learned. And every day I am learning something new.
+- :keyboard: I believe in #SharingIsCaring. I'm here to share with you what I have learned, and I'm learning something new every day.![Uploading image.png…]()
+
 - :briefcase: According to my tech skills, I'm looking for an internship place or an Azure Administrator/Junior Software Developer position.
 - :handshake: I'm looking to collaborate with someone who is interested in Software Development, Clouds, Data Analytics & DevOps.
 - :technologist: I ensure my skills are kept up to date within this rapidly changing industry. My current study domains are Azure Administration, Network Security, Azure Virtual Desktop, Azure Security Technologies, Azure Monitor, Azure Arc, M365, PaaS Services, Container Services, Windows Server 2019 Admin, Microservices(Node & React), Docker & Kubernetes, Testing etc.
