@@ -1,4 +1,4 @@
-<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3 align="center">Hi I'm Koushik.<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Welcome to my <div id="header" align="center"><img src="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="70" height="70"/></div> profile!</h3>
+![image](https://github.com/koushik80/koushik80/assets/89943976/aaaf9209-4f63-4dba-92ff-6260c4e35de7)<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3 align="center">Hi I'm Koushik.<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Welcome to my <div id="header" align="center"><img src="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="70" height="70"/></div> profile!</h3>
 
 <br>
 
@@ -44,11 +44,11 @@
 </div>
 
 - :keyboard: I believe in #SharingIsCaring. I'm here to share with you what I have learned, and I'm learning something new every day.
+- :briefcase: Based on my technical skills, I am seeking roles such as Azure Administrator, System Specialist, or Junior Software Developer.
+- :handshake: I am seeking to collaborate with individuals who have an interest in Software Development, Cloud computing, Data Analytics, and DevOps.
+- :technologist: I make sure to continuously update my skills in this rapidly evolving industry. Currently, I am focusing on studying Azure Administration, Network Security, Azure Virtual Desktop, Azure Security Technologies, Azure Monitor, Azure Arc, M365, PaaS Services, Container Services, Windows Server 2019 Administration, Microservices (Node & React), Docker & Kubernetes, and Testing, among other areas.
+- :zap: During my free time, when I'm not coding or looking at screens, you'll find me enjoying moments with my family, cooking, gardening, reading tech articles, or listening to music.
 
-- :briefcase: According to my tech skills, I'm looking for an internship place or an Azure Administrator/Junior Software Developer position.
-- :handshake: I'm looking to collaborate with someone who is interested in Software Development, Clouds, Data Analytics & DevOps.
-- :technologist: I ensure my skills are kept up to date within this rapidly changing industry. My current study domains are Azure Administration, Network Security, Azure Virtual Desktop, Azure Security Technologies, Azure Monitor, Azure Arc, M365, PaaS Services, Container Services, Windows Server 2019 Admin, Microservices(Node & React), Docker & Kubernetes, Testing etc.
-- :zap: In my free time when I'm not pushing codes, you'll find me enjoying time with my family, cooking, gardening, reading tech articles or listening to music.
 
 ---
 
