@@ -67,7 +67,7 @@
 ### :battery: Knowledge Bank :
 
 <div id="header" align="right">
- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100" border-radius="50%" />
+ <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="auto" style="border-radius:50%" />
 </div>
 
 
