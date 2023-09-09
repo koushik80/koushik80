@@ -41,7 +41,7 @@
 </div>
 
 <div id="header" align="center">
- <img src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="200"/>
+ <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="150"/>
 </div>
 
 <div id="header" align="right">
