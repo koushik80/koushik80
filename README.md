@@ -39,6 +39,11 @@
 <div id="header" align="right">
  <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="150"/>
 </div>
+
+<div id="header" align="center">
+ <img src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" width="200"/>
+</div>
+
 <div id="header" align="right">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="55" height="55"/>
 </div>
