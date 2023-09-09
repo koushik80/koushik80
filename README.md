@@ -41,8 +41,7 @@
 </div>
 
 <div id="header" align="center">
- <img src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I![image](https://github.com/koushik80/koushik80/assets/89943976/67a71900-fa1c-4ec7-8706-d1d4adc1e2ef)
-" width="200"/>
+ <img src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="200"/>
 </div>
 
 <div id="header" align="right">
