@@ -40,10 +40,6 @@
  <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="150"/>
 </div>
 
-<div id="header" align="center">
- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="150"/>
-</div>
-
 <div id="header" align="right">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="55" height="55"/>
 </div>
@@ -69,6 +65,10 @@
 ---
 
 ### :battery: Knowledge Bank :
+
+<div id="header" align="right">
+ <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100"/>
+</div>
 
 
 <div display="grid" grid-auto-flow="dense" align="left" justify-content="center" grid-gap="3px" object-fit="cover" height="100%">
