@@ -45,7 +45,7 @@
 </div>
 
 - :keyboard: I believe in #SharingIsCaring. I'm here to share with you what I have learned, and I'm learning something new every day.
-- :briefcase: Based on my technical skills, I am seeking roles such as Cloud Specialist(Azure preferred), Azure Administrator, System Specialist, or Junior Software Developer.
+- :briefcase: Based on my technical skills, I am seeking roles such as Cloud Specialist(Azure preferred), Azure Administrator, System Specialist, or Software Developer.
 - :handshake: I am seeking to collaborate with individuals who have an interest in Software Development, Cloud computing, Data Analytics, and DevOps.
 - :technologist: I make sure to continuously update my skills in this rapidly evolving industry. Currently, I am focusing on studying Azure Administration, Network Security, Azure Virtual Desktop, Azure Security Technologies, Azure Monitor, Azure Arc, M365, PaaS Services, Container Services, Windows Server 2019 Administration, Microservices (Node & React), Docker & Kubernetes, and Testing, among other areas.
 - :zap: During my free time, when I'm not coding or looking at screens, you'll find me enjoying moments with my family, cooking, gardening, reading tech articles, or listening to music.
