@@ -32,7 +32,7 @@
 
 ---
 
-<h4 align="left">I'm an enthusiastic System Specialist(Microsoft Azure) and Software Developer with fundamental DevOps skills, seeking long-term employment with a company where I can really immerse myself in their brand and their online ambitions. I enjoy connecting with diverse individuals, so if you'd like to say hello, please feel free to connect with me! Thanks for visiting my profile.</h4>
+<h4 align="left">I'm an enthusiastic System Specialist, with a primary focus on Microsoft Azure, and a Software Developer with fundamental DevOps skills. I'm currently seeking long-term employment with a company where I can fully immerse myself in their brand and online ambitions. As a System Specialist, I excel in working within a Hybrid environment, seamlessly navigating both On-premises and Azure setups. Additionally, I'm actively expanding my skill set in computer networking to become a proficient Network Administrator and Cybersecurity Specialist. I enjoy connecting with diverse individuals, so please feel free to reach out and say hello. Thank you for visiting my profile and exploring my repositories!</h4>
 
 ---
 
@@ -46,7 +46,7 @@
 
 - :keyboard: I believe in #SharingIsCaring. I'm here to share with you what I have learned, and I'm learning something new every day.
 - :briefcase: Based on my technical skills, I am seeking roles such as Cloud Specialist(Azure preferred), Azure Administrator, System Specialist, or Software Developer.
-- :handshake: I am seeking to collaborate with individuals who have an interest in Software Development, Cloud computing, Data Analytics, and DevOps.
+- :handshake: I am seeking to collaborate with individuals who have an interest in Cloud Computing, System Development, Cyber Security, Software Development, Data Analytics, and DevOps.
 - :technologist: I make sure to continuously update my skills in this rapidly evolving industry. Currently, I am focusing on studying Azure Administration, Network Security, Azure Virtual Desktop, Azure Security Technologies, Azure Monitor, Azure Arc, M365, PaaS Services, Container Services, Windows Server 2019 Administration, Microservices (Node & React), Docker & Kubernetes, and Testing, among other areas.
 - :zap: During my free time, when I'm not coding or looking at screens, you'll find me enjoying moments with my family, cooking, gardening, reading tech articles, or listening to music.
 
