@@ -118,12 +118,6 @@
 
 ---
 
-### extra pins
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=koushik80&repo=github-readme-stats)](https://github.com/koushik80/github-readme-stats)
-
-
 
 <!--
 **koushik80/koushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
