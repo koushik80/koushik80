@@ -93,8 +93,6 @@
    <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" title="cicd" alt="cicd" width="36" height="25" display="block"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="60" height="30" display="block"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="60" height="30" display="block"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" title="bash" alt="bash" width="50" height="20" display="block"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" alt="heroku" width="40" height="30" display="block"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="50" height="30" display="block"/>&nbsp;
    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="windows" alt="windows" width="42" height="25" display="block"/>&nbsp;
