@@ -52,13 +52,13 @@
 
 <div id="header" align="right">
 <div align="center">
-<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="100" height="100"/>
+<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="120" height="120"/>
 </div>
- <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="150"/>
+ <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="180"/>
 </div>
 
 <div id="header" align="right">
- <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="55" height="55"/>
+ <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="60" height="60"/>
 </div>
 
 - :keyboard: I believe in #SharingIsCaring. I'm here to share with you what I have learned, and I'm learning something new every day.
