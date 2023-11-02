@@ -6,20 +6,6 @@
 
 <br>
 
----
-
-<div align="right">:bangladesh: :finland:</div>
-<br>
-
-<h4 align="left">I'm an enthusiastic System Specialist, with a primary focus on Microsoft Azure, and a Software Developer with fundamental DevOps skills. I'm currently seeking long-term employment with a company where I can fully immerse myself in their brand and online ambitions. As a System Specialist, I excel in working within a Hybrid environment, seamlessly navigating both On-premises and Azure setups. Additionally, I'm actively expanding my skill set in computer networking to become a proficient Network Administrator and Cybersecurity Specialist. I enjoy connecting with diverse individuals, so please feel free to reach out and say hello. Thank you for visiting my profile and exploring my repositories!</h4>
-
-<br>
-
-<div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
-</div>
-
-<br><br>
 
 <div id="badges" align="center">
   <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="35" height="35"/>
@@ -40,6 +26,22 @@
     <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
+
+---
+
+<div align="right">:bangladesh: :finland:</div>
+<br>
+
+<h4 align="left">I'm an enthusiastic System Specialist, with a primary focus on Microsoft Azure, and a Software Developer with fundamental DevOps skills. I'm currently seeking long-term employment with a company where I can fully immerse myself in their brand and online ambitions. As a System Specialist, I excel in working within a Hybrid environment, seamlessly navigating both On-premises and Azure setups. Additionally, I'm actively expanding my skill set in computer networking to become a proficient Network Administrator and Cybersecurity Specialist. I enjoy connecting with diverse individuals, so please feel free to reach out and say hello. Thank you for visiting my profile and exploring my repositories!</h4>
+
+<br>
+
+<div id="header" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+</div>
+
+<br><br>
+
 
 ---
 
