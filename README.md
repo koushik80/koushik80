@@ -21,8 +21,6 @@
 
 <br><br>
 
----
-
 <div id="badges" align="center">
   <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="35" height="35"/>
   
@@ -42,6 +40,10 @@
     <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
+
+---
+
+
 <br><br>
 
 <div id="header" align="right">
