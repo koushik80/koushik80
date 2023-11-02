@@ -54,6 +54,8 @@
 <div align="center">
 <img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="120" height="120"/>
 </div>
+  <p align="center">My passion is to be charged…
+</p>
  <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="180"/>
 </div>
 
