@@ -51,6 +51,9 @@
 
 
 <div id="header" align="right">
+<div align="center">
+<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="100" height="100"/>
+</div>
  <img src="https://media.giphy.com/media/dEVAzrWfqTRAOYPNrz/giphy.gif" width="150"/>
 </div>
 
