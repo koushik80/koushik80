@@ -1,7 +1,7 @@
-<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3 align="center">Hi I'm Koushik.Welcome to my <div id="header" align="center"><img src="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="70" height="70"/></div> profile!</h3>
+<div align="right"><img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="40"/></div><h3 align="center">Hi I'm Koushik.Welcome to my profile!</h3>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="center" width="100" height="100"/>
+<div id="header" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="center" width="300" height="300"/>
 </div>
 
 <br>
