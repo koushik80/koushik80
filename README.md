@@ -1,11 +1,7 @@
 <div align="center"><img src="https://github.com/koushik80/ticketing/assets/89943976/2240cbd1-cbf1-4056-9908-533c6b34543e" /></div>
-
-<div id="header" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="center" width="600" height="600"/>
-</div>
 
 <br>
-
 
 <div id="badges" align="center">
   <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="35" height="35"/>
