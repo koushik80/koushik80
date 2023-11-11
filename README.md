@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-youtubered?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/BLIZZARD_FINBD">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -23,7 +23,6 @@
   <a href="https://web.whatsapp.com/">
     <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-
    <a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/?source=docs">
     <img src="https://img.shields.io/badge/Microsoft-gray?style=for-the-badge&logo=microsoft&logoColor=orangered-green-blue-yellow-gray" alt="Microsoft Badge"/>
   </a>
