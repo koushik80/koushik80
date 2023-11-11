@@ -22,10 +22,7 @@
   </a>
   <a href="https://web.whatsapp.com/">
     <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-   <a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/?source=docs">
-    <img src="https://img.shields.io/badge/Microsoft-white?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badge"/>
-  </a>
+  
 </div>
 
 ---
