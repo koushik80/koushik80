@@ -22,6 +22,7 @@
   </a>
   <a href="https://web.whatsapp.com/">
     <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
   
 </div>
 
