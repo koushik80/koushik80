@@ -25,7 +25,7 @@
   </a>
 
    <a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/?source=docs">
-    <img src="https://img.shields.io/badge/Microsoft-white?style=for-the-badge&logo=microsoft&logoColor=orange red-green-blue-yellow-grey" alt="Microsoft Badge"/>
+    <img src="https://img.shields.io/badge/Microsoft-grey?style=for-the-badge&logo=microsoft&logoColor=orange red-green-blue-yellow-grey" alt="Microsoft Badge"/>
   </a>
   
 </div>
