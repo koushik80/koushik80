@@ -121,6 +121,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="80" height="40" display="block"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="60" height="30" display="block"/>&nbsp;
   <img src="https://github.com/bwks/vendor-icons-svg/blob/master/cisco-colour.svg" title="cisco" alt="cisco" width="40" height="20" display="block"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="cisco" alt="cisco" width="40" height="20" display="block"/>&nbsp;
   
  </div>
   
