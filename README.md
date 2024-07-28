@@ -31,7 +31,7 @@
 <div align="right">:bangladesh: :finland:</div>
 <br>
 
-<h4 align="left">I'm an enthusiastic System Specialist, with a primary focus on Microsoft Azure, and a Software Developer with fundamental DevOps skills. I'm currently seeking long-term employment with a company where I can fully immerse myself in their brand and online ambitions. As a System Specialist, I excel in working within a Hybrid environment, seamlessly navigating both On-premises and Azure setups. Additionally, I'm actively expanding my skill set in computer networking to become a proficient Network Administrator and Cybersecurity Specialist. I enjoy connecting with diverse individuals, so please feel free to reach out and say hello. Thank you for visiting my profile and exploring my repositories!</h4>
+<h4 align="left">I'm an enthusiastic System Specialist, with a primary focus on Microsoft Azure, and a Software Developer with DevOps skills. I'm currently seeking long-term employment with a company where I can fully immerse myself in their brand and online ambitions. As a System Specialist, I excel in working within a Hybrid environment, seamlessly navigating both On-premises and Azure setups. Additionally, I'm actively expanding my skill set in computer networking to become a proficient Network Administrator and Cybersecurity Specialist. I enjoy connecting with diverse individuals, so please feel free to reach out and say hello. Thank you for visiting my profile and exploring my repositories!</h4>
 
 <br>
 
