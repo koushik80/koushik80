@@ -31,7 +31,14 @@
 <div align="right">:bangladesh: :finland:</div>
 <br>
 
-<h4 align="left">I'm an enthusiastic System Specialist, with a primary focus on Microsoft Azure, and a Software Developer with DevOps skills. I'm currently seeking long-term employment with a company where I can fully immerse myself in their brand and online ambitions. As a System Specialist, I excel in working within a Hybrid environment, seamlessly navigating both On-premises and Azure setups. Additionally, I'm actively expanding my skill set in computer networking to become a proficient Network Administrator and Cybersecurity Specialist. I enjoy connecting with diverse individuals, so please feel free to reach out and say hello. Thank you for visiting my profile and exploring my repositories!</h4>
+<h4 align="left">I'm an enthusiastic System Specialist with a primary focus on Microsoft Azure, and a Software Developer with DevOps skills. In my role, I manage the installation, configuration, and security of hardware and software systems, primarily in Linux-based environments. I monitor systems, troubleshoot issues, automate processes using Ansible, and conduct security checks to ensure stability and compliance. Additionally, I handle asset tracking and updates, collaborating with system administrators and team leaders on projects. I also provide remote technical support, resolve networking problems, and manage server-side operations to ensure seamless functionality.
+ 
+With a strong foundation in cloud computing, particularly in Microsoft Azure, and experience in DevOps practices, I optimize deployments and enhance system performance. My expertise covers data backup management, system security, networking, and maintaining accurate technical documentation.
+
+I'm also expanding my skills in computer networking to become proficient in Network Administration and Cybersecurity. I enjoy connecting with diverse individuals, so please feel free to reach out and say hello. Thank you for visiting my profile and exploring my repositories!
+![image](https://github.com/user-attachments/assets/2da7fcf2-8e03-4a15-bbe8-7ff05f33e204)
+
+</h4>
 
 <br>
 
